@@ -1,5 +1,5 @@
 # tec-WTF
-Every 22nd of the month create a WTF addon, crazy, new, extreme hair brain circuit or code idea.
+Every 22nd of the month create and submit to the group a WTF addon, crazy, new, extreme hair brain circuit or code idea.
 
 
 https://github.com/SteveJustin1963/tec-RADIO
